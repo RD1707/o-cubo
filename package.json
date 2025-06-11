@@ -13,12 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/bsehovac/bsehovac.github.io.git"
+    "url": "https://github.com/RD1707/o-cubo"
   },
-  "author": "",
+  "author": "RD11707",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bsehovac/bsehovac.github.io/issues"
-  },
-  "homepage": "https://github.com/bsehovac/bsehovac.github.io#readme"
+    "url": "https://github.com/RD1707/o-cubo/issues"
+  }
 }
