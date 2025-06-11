@@ -13,14 +13,14 @@ Este é um projeto de um Cubo mágico totalmente interativo, desenvolvido com Ja
     * Um editor de tema para ajustar a Matiz, Saturação e Luminosidade da interface.
     * Ângulo da câmara ajustável (Ortográfica ou Perspetiva).
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **HTML5**
 * **CSS3 / Sass** para estilos modulares.
 * **JavaScript (ES6+)** para toda a lógica do jogo e interatividade.
 * **Three.js** para a renderização e manipulação da cena 3D.
 
-## 🚀 Como Executar Localmente
+## Como Executar Localmente
 
 Como este é um projeto puramente de front-end, não é necessário um processo de compilação complexo para o executar.
 
